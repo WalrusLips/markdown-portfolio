@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+**Favorite Things in No Particular Order**
+- good food
+- mild weather
+- restful sleep
+- music
